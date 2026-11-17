@@ -1,0 +1,23 @@
+{
+  "name": "roblox-gun-sys",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "GunSystem": {
+        "$path": "src/ReplicatedStorage/GunSystem"
+      }
+    },
+    "ServerScriptService": {
+      "GunServer": {
+        "$path": "src/ServerScriptService/GunServer"
+      }
+    },
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "GunClient": {
+          "$path": "src/StarterPlayer/StarterPlayerScripts/GunClient"
+        }
+      }
+    }
+  }
+}
